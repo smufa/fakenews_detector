@@ -1,0 +1,5 @@
+{
+    "nixEnvSelector.suggestion": false,
+    "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix",
+    "python.pythonPath": "/nix/store/b942rm2lm80psaa3jksqcbx9vx2m1xb1-python3-3.8.11-env/bin/python3.8"
+}
